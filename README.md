@@ -78,7 +78,7 @@
 <img src="./readMeImage/gomchaTycoonGame.png" width=200>
 </p>
 
-### 프로젝트 시연 영상
+### 프로젝트  영상
 [유튜브링크]()
 
 ## 📌 추후에 코드 개선할 점들
