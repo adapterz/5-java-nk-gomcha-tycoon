@@ -13,24 +13,24 @@
 ## 📌 폴더 구조 설명
 
 ```
-├── src  
-│   └── beverage_tycoon  
-│     ├── Intro.java  
-│     ├── Menu.java  
-│     ├── MenuComponent.java  
-│     ├── MenuGuide.java  
-│     ├── User.java  
-│     ├── Customer.java  
-│     ├── Game.java  
-│     ├── GameBGM.java  
-│     └── GameOver.java  
-└── bgm  
-│   └── tycoonBgm.wav  
-└── images  
-    ├── tycoonCharacter.png 
-    ├── tycoonMenu.png 
-    ├── tycoonRoof.png 
-    └── tycoonUserLife.png 
+└── src  
+    ├── beverage_tycoon  
+    │   ├── Intro.java  
+    │   ├── Menu.java  
+    │   ├── MenuComponent.java  
+    │   ├── MenuGuide.java  
+    │   ├── User.java  
+    │   ├── Customer.java  
+    │   ├── Game.java  
+    │   ├── GameBGM.java  
+    │   └── GameOver.java  
+    └── bgm  
+    │   └── tycoonBgm.wav  
+    └── images  
+        ├── tycoonCharacter.png 
+        ├── tycoonMenu.png 
+        ├── tycoonRoof.png 
+        └── tycoonUserLife.png 
 ```
 
 ## 📌 주요 기능
